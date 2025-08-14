@@ -1,0 +1,121 @@
+body {
+    Background-Color: #16365d;
+    Font-Family: Arial;
+    font-size: 22px;
+    color: white;
+}
+
+.fHeading {
+    color: white;
+    text-align: right;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+p {
+    color: white;
+    margin: 0px;
+}
+
+li {
+    color: white;
+}
+
+.firstStyle {
+    color: red;
+    font-style: italic;
+}
+
+.secondStyle {
+    color: magenta;
+    font-weight: bold;
+}
+
+.thirdStyle {
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.media {
+    text-align: center;
+    color: red;
+}
+
+.parStyle {
+    text-align: center;
+    font-size: 21px;
+}
+
+.p1 {
+    text-decoration: underline;
+    color: yellow;
+}
+
+.p2 {
+    color: blue;
+    font-weight: bold;
+}
+
+.p3 {
+    color: rgb(22, 250, 1);
+    font-weight: bold;
+}
+
+.heading2 {
+    background-color: black;
+    width: 50%;
+    padding-bottom: 40px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+}
+
+.parStyle2 {
+    text-align: end;
+}
+
+.p4 {
+    color: blue;
+    font-style: italic;
+}
+
+.p5 {
+    color:red;
+    font-weight: bold;
+}
+
+.parStyle3 {
+    margin-top: 30px;
+}
+
+.p6 {
+    background-color: rgb(21, 215, 21);
+    color: black;
+    font-weight: bold;
+}
+
+.controls {
+    color: rgb(21, 215, 21);
+    
+}
+
+.tbox {
+    background-color: black;
+    font-style: italic;
+    padding: 20px;
+    font-size: 21px;
+    border-left: 2px solid red;
+    border-right: 2px solid white;
+
+}
+
+.galleries {
+    color: yellow;
+    padding-left: 130px;
+    border-bottom: 2px solid yellow;
+    width: 21%;
+}
+
+.lastp {
+    background-color: red;
+}
