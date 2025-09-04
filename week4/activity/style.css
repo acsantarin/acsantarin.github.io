@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrap {
+    display: flex;
+}
+.margin {
+    margin: 20px;
+}
+.A {
+    height: 200px;
+    width: 150px;
+    border-right: 20px solid black;
+    border-bottom: 40px solid black;
+    background-color: white;
+}
+.B {
+    height: 200px;
+    width: 150px;
+    border-right: 20px solid black;
+    border-bottom: 20px solid black;
+    background-color: white;
+}
+
+.C {
+    height: 440px;
+    width: 440px;
+    border-bottom: 20px solid black;
+    background-color: red;
+}
+.D {
+    height: 180px;
+    width: 150px;
+    border-right: 20px solid black;
+    background-color: blue;
+}
+.E {
+    height: 180px;
+    width: 385px;
+    border-right: 20px solid black;
+    background-color: white;
+}
+.F {
+    height: 70px;
+    width: 35px;
+    background-color: white;
+    border-bottom: 40px solid black;
+}
+.G {
+    height: 70px;
+    width: 35px;
+    background-color: yellow;
+}
